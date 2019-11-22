@@ -20,7 +20,7 @@ $ minikube addons list
 - addon-manager: enabled
 - dashboard: enabled
 - default-storageclass: enabled
-**- ingress: disabled**
+- __ingress: disabled__
 - ingress-dns: disabled
 - logviewer: disabled
 - metrics-server: disabled
